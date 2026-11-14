@@ -1,8 +1,8 @@
-# Ado Cursor for Omarchy — Free Edition (`Ado-by-Martk-Free`)
+# Ado Cursor for Omarchy — Free Linux Edition [`by Martk`](https://ko-fi.com/martk_martk)
 
 ## Support the Original Artist — Get the Full Animated Version!
 
-Every pixel of this cursor pack was lovingly crafted by **Martk (`@MARTK_MARTK`)**. This repository only packages the **[Free Windows Edition](https://ko-fi.com/s/274fde222e)** converted for Linux — which gives you just a small preview of the artwork (only **2 animated cursors** and 13 static ones).
+Every pixel of this cursor pack was lovingly crafted by **Martk [`@MARTK_MARTK`](https://ko-fi.com/martk_martk)**. This repository only packages the **[Free Windows Edition](https://ko-fi.com/s/274fde222e)** converted for Linux — which gives you just a small preview of the artwork (only **2 animated cursors** and 13 static ones).
 
 If you enjoy having Ado on your desktop, **please support Martk directly by buying the [Original Premium Fully Animated Windows Version on Ko-fi](https://ko-fi.com/s/349091ba4e)**!
 
@@ -63,6 +63,6 @@ To remove the cursor theme and restore your default cursor:
 
 ## Credits
 
-- **Original Artist & Creator**: **Martk** (`@MARTK_MARTK`)
-  - **[Buy the Original Premium Fully Animated Windows Version (Ko-fi)](https://ko-fi.com/s/349091ba4e)**
-  - [Original Free Windows Version (Ko-fi)](https://ko-fi.com/s/274fde222e)
+- **Original Artist & Creator**: **Martk** [`@MARTK_MARTK`](https://ko-fi.com/martk_martk)
+- **[Buy the Original Premium Fully Animated Windows Version (Ko-fi)](https://ko-fi.com/s/349091ba4e)**
+- [Original Free Windows Version (Ko-fi)](https://ko-fi.com/s/274fde222e)
