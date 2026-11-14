@@ -2,9 +2,9 @@
 
 ## Support the Original Artist — Get the Full Animated Version!
 
-Every pixel of this cursor pack was lovingly crafted by **Martk (`@MARTK_MARTK`)**. This repository only packages the **[Free Edition](https://ko-fi.com/s/274fde222e)** converted for [Omarchy](https://omarchy.org/) Linux — which gives you just a small preview of the artwork (only **2 animated cursors** and 13 static ones).
+Every pixel of this cursor pack was lovingly crafted by **Martk (`@MARTK_MARTK`)**. This repository only packages the **[Free Windows Edition](https://ko-fi.com/s/274fde222e)** converted for Linux — which gives you just a small preview of the artwork (only **2 animated cursors** and 13 static ones).
 
-If you enjoy having Ado on your desktop, **please support Martk directly by buying the [Original Premium Fully Animated Version on Ko-fi](https://ko-fi.com/s/349091ba4e)**!
+If you enjoy having Ado on your desktop, **please support Martk directly by buying the [Original Premium Fully Animated Windows Version on Ko-fi](https://ko-fi.com/s/349091ba4e)**!
 
 > [!IMPORTANT]
 > ### [Buy the Original Premium Fully Animated Ado Cursor on Ko-fi →](https://ko-fi.com/s/349091ba4e)
@@ -18,6 +18,9 @@ If you enjoy having Ado on your desktop, **please support Martk directly by buyi
 ---
 
 ## How to Install (Omarchy / Linux Free Edition)
+
+> [!NOTE]
+> I have only tested this directly on **Omarchy** (Hyprland), though `install.sh` auto-detects Hyprland, Sway, GNOME, KDE Plasma, XFCE, GTK, and X11 and should work on most Linux distros.
 
 ### Option 1: Clone & Run
 ```bash
@@ -40,26 +43,26 @@ By default, `install.sh` sets cursor size `32` (matching the native 32×32 pixel
 ```
 
 ### Uninstall
-To remove the cursor theme and restore Omarchy's default cursor:
+To remove the cursor theme and restore your default cursor:
 ```bash
 ./uninstall.sh
 ```
 
 ---
 
-## Features of This Omarchy Package
+## Features of This Linux Package
 
 - **Free Edition Port (2 Animated + 13 Crisp Static Cursors)**:
   - 4-frame animated `wait` (`Ocupado.ani`) and `progress` (`Trabajando en segundo plano.ani`).
   - Static pixel-art cursors for `default`, `text`, `pointer`, `help`, `not-allowed`, `crosshair`, `pencil`, `up-arrow`, `move`, and `*-resize` *(want every cursor state fully animated? Grab [Martk's Premium Edition on Ko-fi](https://ko-fi.com/s/349091ba4e))*.
 - **Crisp Pixel Art at Any Scale**: Includes pre-built Xcursor sizes (`24`, `30`, `32`, `36`, `40`, `48`, `64`, `96`) with aligned hotspots.
-- **Reliable Auto-Hide**: Configures `hide_on_key_press = true`, `inactive_timeout = 3`, and `no_hardware_cursors = 1` (software cursor mode) so cursors stay hidden while typing or idle without reappearing.
-- **Safe Omarchy Integration**: Installs into `~/.local/share/icons/Ado-by-Martk-Free`, backs up `~/.config/hypr/looknfeel.lua` before adding cursor settings, and applies immediately across Hyprland, GTK, and XWayland without logging out.
+- **Auto-Detecting Linux Installer**: Installs into `~/.local/share/icons/Ado-by-Martk-Free` and automatically configures your detected desktop/compositor (Omarchy, Hyprland, Sway, GNOME/GTK, KDE Plasma, XFCE, or X11).
+- **Reliable Auto-Hide (Omarchy / Hyprland)**: Configures `hide_on_key_press = true`, `inactive_timeout = 3`, and `no_hardware_cursors = 1` (software cursor mode) so cursors stay hidden while typing or idle without reappearing.
 
 ---
 
 ## Credits
 
 - **Original Artist & Creator**: **Martk** (`@MARTK_MARTK`)
-  - **[Buy the Original Premium Fully Animated Version (Ko-fi)](https://ko-fi.com/s/349091ba4e)**
+  - **[Buy the Original Premium Fully Animated Windows Version (Ko-fi)](https://ko-fi.com/s/349091ba4e)**
   - [Original Free Windows Version (Ko-fi)](https://ko-fi.com/s/274fde222e)
