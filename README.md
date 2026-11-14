@@ -1,6 +1,6 @@
-# Ado Cursor for Omarchy — Free Linux Edition [`by Martk`](https://ko-fi.com/martk_martk)
+# Ado Cursor for Omarchy - Free Linux Edition [`by Martk`](https://ko-fi.com/martk_martk)
 
-## Support the Original Artist — Get the Full Animated Version!
+## Support the Original Artist - Get the Full Animated Version!
 
 Every pixel of this cursor pack was lovingly crafted by **Martk [`@MARTK_MARTK`](https://ko-fi.com/martk_martk)**. This repository only packages the **[Free Windows Edition](https://ko-fi.com/s/274fde222e)** converted for Linux — which gives you just a small preview of the artwork (only **2 animated cursors** and 13 static ones).
 
